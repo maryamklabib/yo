@@ -1,5 +1,5 @@
 ---
 applications:
-- name: didactic-funicular
+- name: yo
   memory: 512M
   buildpack: staticfile_buildpack
