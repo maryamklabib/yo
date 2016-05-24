@@ -2,14 +2,14 @@
 
 /**
  * @ngdoc overview
- * @name didacticFunicularApp
+ * @name yoApp
  * @description
- * # didacticFunicularApp
+ * # yoApp
  *
  * Main module of the application.
  */
 angular
-  .module('didacticFunicularApp', [
+  .module('yoApp', [
     'ngAnimate',
     'ngCookies',
     'ngResource',

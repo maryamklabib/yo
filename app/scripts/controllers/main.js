@@ -2,12 +2,12 @@
 
 /**
  * @ngdoc function
- * @name didacticFunicularApp.controller:MainCtrl
+ * @name yoApp.controller:MainCtrl
  * @description
  * # MainCtrl
- * Controller of the didacticFunicularApp
+ * Controller of the yoApp
  */
-angular.module('didacticFunicularApp')
+angular.module('yoApp')
   .controller('MainCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
