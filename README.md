@@ -1,2 +1,3 @@
-# yo
-A website to 'Yo!' the world built using Yeoman
+# didactic-funicular
+
+A personal website in AngularJS that does whatever I feel like.
