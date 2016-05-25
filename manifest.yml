@@ -1,5 +1,6 @@
 ---
 applications:
 - name: yo
+  path: dist
   memory: 512M
   buildpack: staticfile_buildpack
